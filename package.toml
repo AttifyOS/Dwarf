@@ -1,0 +1,9 @@
+[package_detail]
+name = "dwarf"
+description = "Full featured multi arch/os debugger built on top of PyQt5 and frida"
+version = "1.1.3"
+source_url = "https://github.com/iGio90/Dwarf"
+license = "GPL-3.0"
+install_script = "setup.sh"
+install_script_type = "shell"
+
